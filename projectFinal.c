@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 
 #define FILENAME "diary.txt"
 #define MAX_ENTRY_LENGTH 4096
